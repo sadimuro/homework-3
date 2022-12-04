@@ -4,7 +4,6 @@
 # printe('Beka')
 # printe('Bakyt')
 
-#
 class Human:
     # атрибут уровня класса
     head=1

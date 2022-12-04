@@ -9,4 +9,3 @@ class Run:
 
 hum=Human('Sadir',36)
 Run.run(hum.name)
-
