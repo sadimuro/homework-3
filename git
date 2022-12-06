@@ -1,0 +1,10 @@
+когда вы первый раз пушите
+git init
+git remote add origin
+когда вы изменили или хотите запушить
+git add .
+git commit -m 'ваш коммит'
+git push origin master/main
+
+git rm --cached название файла
+git rm --cached -r название папки
